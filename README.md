@@ -3,7 +3,7 @@ Discord-Rich-Presence
 
 Rich-Presence af Havfruen
 
-sådan sætter du det op/Showcase: kommer snart!
+sådan sætter du det op/Showcase: https://youtu.be/lTu8UlY94R8
 
 For hjælp med scriptet kontakt mig på min discord eller PB
 
